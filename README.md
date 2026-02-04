@@ -55,7 +55,7 @@ Inside the PowerPoint there is **one template slide** that:
 ### Step 1: Open Files
 
 1. Open the Excel file with the team list
-2. Open the PowerPoint **.pptm** file
+2. Open the PowerPoint **.pptx** file
 
 ---
 
