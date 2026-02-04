@@ -22,7 +22,6 @@ Your Excel sheet must be formatted exactly like this:
 
 | Column A | Column B         |
 | -------- | ---------------- |
-| Number   | Name             |
 | 5393     | Vinegar Vikings  |
 | 8114     | The Pro Tractors |
 
