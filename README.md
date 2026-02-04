@@ -12,7 +12,7 @@ This file is intended to be used by event staff or volunteers. No coding knowled
 
   > PowerPoint Web will NOT work
 * **Excel** with a team list
-* The **macro‑enabled PowerPoint file** (`.pptm`)
+* The **macro‑enabled PowerPoint file** (`.pptx`)
 
 ---
 
