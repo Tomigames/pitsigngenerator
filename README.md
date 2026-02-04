@@ -1,6 +1,6 @@
 # Pit Sign Generator – README
 
-This PowerPoint contains a **Pit Sign Generator** that automatically creates one pit sign per team using an Excel team list.
+This PowerPoint contains a **Pit Sign Generator** that automatically creates one pit sign per team using an Excel team list. You are encouraged to **modify the design, colors, and logos to your liking** before generating pit signs.
 
 This file is intended to be used by event staff or volunteers. No coding knowledge is required.
 
@@ -37,7 +37,7 @@ Important rules:
 
 ## PowerPoint Template Slide
 
-Inside the PowerPoint there is **one template slide** that:
+Inside the PowerPoint there is **one template slide** that you can customize. You may **update the design, colors, and logos as desired**, as long as the placeholders remain unchanged:
 
 * Has the correct pit sign design
 * Contains the text placeholders:
@@ -46,7 +46,7 @@ Inside the PowerPoint there is **one template slide** that:
   * `{{NAME}}`
 * Each placeholder appears **twice** on the slide
 
-⚠️ Do not change the placeholder text.
+⚠️ You may freely modify the design and logos, but **do not modify or rename the placeholder variables** (`{{NUM}}` and `{{NAME}}`). Changing these variables will break the pit sign generator.
 
 ---
 
@@ -55,7 +55,7 @@ Inside the PowerPoint there is **one template slide** that:
 ### Step 1: Open Files
 
 1. Open the Excel file with the team list
-2. Open the PowerPoint **.pptx** file
+2. Open the PowerPoint **.pptm** file **.pptm** file
 
 ---
 
@@ -123,7 +123,7 @@ This removes the macro and makes the file safe to:
 * Share with schools or admins
 * Send to printers
 
-⚠️ Do NOT share the `.pptm` file externally.
+⚠️ Do NOT share the `.pptx` file externally.
 
 ---
 
@@ -155,7 +155,7 @@ If something breaks:
 * Make sure the template slide is untouched
 * Try again
 
-This generator can be reused for any event by simply swapping the Excel team list.
+This generator can be reused for any event by simply swapping the Excel team list and updating the slide design and logos as needed for each event.
 
 ---
 
